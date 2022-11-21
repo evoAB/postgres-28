@@ -1,0 +1,4 @@
+insert into student values(1,'Sham","PCM");
+insert into student values(2,'Ram","PCMB");
+insert into student values(3,'Sita","PCB");
+insert into student values(4,'Geeta","Arts");

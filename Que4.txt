@@ -1,0 +1,1 @@
+update student set name='Mohan' where rollno=3;

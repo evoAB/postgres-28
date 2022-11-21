@@ -1,0 +1,2 @@
+create table student (rollno int, name varchar, cid int, primary key(rollno),
+					 CONSTRAINT fk_courses foreign key(cid) REFERENCES courses(cid));

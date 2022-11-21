@@ -1,0 +1,8 @@
+insert into courses values (1,'Python');
+insert into courses values (2,'Java');
+insert into courses values (3,'CPP');
+
+insert into student values (101,'Sham',3);
+insert into student values (102,'Ram',1);
+insert into student values (103,'Geeta',2);
+insert into student values (104,'Sita',1);
